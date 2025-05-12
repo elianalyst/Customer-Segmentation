@@ -19,6 +19,6 @@ This project segments customers from a telecommunications company using **K-mean
 - mpl_toolkits (3D plotting)
 
 ## Full Report  
-To explore the full clustering process, visualizations, and interpretation, [view the complete Jupyter Notebook](./Customer_Segmentation_Clustering.ipynb).
+To explore the full clustering process, visualizations, and interpretation, [view the complete Jupyter Notebook](./Customer%20Segmentation.ipynb).
 
 You can also view the formal write-up for detailed methodology and business context.
